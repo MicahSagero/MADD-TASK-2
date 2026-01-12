@@ -1,7 +1,7 @@
 # Assignment Report: BMI Calculator Android Application
 
 **Name:** Micah Sagero  
-**Course:** ICS 2300 Mobile Applications Design and Development  
+**Unit:** ICS 2300 Mobile Applications Design and Development  
 **Task:** Android App for BMI Classification
 
 ---
