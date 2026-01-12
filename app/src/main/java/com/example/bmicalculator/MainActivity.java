@@ -8,14 +8,6 @@ import android.widget.TextView;
 import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
 
-/**
- * Name: Micah Sagero
- * Student Number: [As per assignment requirement]
- * 
- * This activity handles the user interface and logic for calculating the Body Mass Index (BMI).
- * It captures weight and height inputs, performs the calculation, and displays the result
- * along with the corresponding BMI classification.
- */
 public class MainActivity extends AppCompatActivity {
 
     private EditText etWeight;
