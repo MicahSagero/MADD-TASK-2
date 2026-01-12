@@ -32,7 +32,6 @@ The core logic of the application is implemented in the `MainActivity.java` file
 
 ## 3. Screenshots
 
-*(Note: In a real-world scenario, screenshots of the app running on an emulator would be placed here.)*
 
 The application has been tested with various inputs to ensure accuracy and robustness.
 - **Input:** Weight = 70kg, Height = 1.75m -> **Result:** BMI = 22.86 (Normal)
